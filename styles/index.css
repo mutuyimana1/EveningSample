@@ -50,7 +50,7 @@
   background-color: rgb(45, 184, 205);
 }
 .home-container {
-  background-image: url("/images/pexels-photo-1758144.jpeg");
+  background-image: url("../images/pexels-photo-1758144.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
